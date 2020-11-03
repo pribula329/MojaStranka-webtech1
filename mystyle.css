@@ -1,0 +1,130 @@
+
+body{ background-color: chartreuse}
+
+aside {
+    width: 15%;
+    padding-left: 15px;
+    padding-right: 10px;
+    float: right;
+    font-family: "Book Antiqua";
+    background-color: aqua;
+}
+
+
+h1 {color: blue}
+h2 {color: red}
+h4 {color: orangered}
+
+.zivotopis{
+color: yellow;
+}
+
+img {
+    border-radius: 25px;
+    float: left;
+}
+.menu{
+    list-style-type: none;
+}
+.vedla{
+    display: inline;
+}
+footer{
+
+    position: fixed;
+    background-color: dimgrey;
+    color: white;
+    text-align: center;
+    top: 97.5%;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+}
+section{
+
+    float: left}
+
+.polovicalava{
+    background-color: aqua;
+    position: fixed;
+    top: 120px;
+    left: 0px;
+    width: 50%;
+    height: 100%;
+
+
+}
+
+.polovicaprava{
+    background-color: blue;
+    position: fixed;
+    top: 120px;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+
+}
+
+table,th,td{
+
+    background-color: aqua;
+    border: 2px solid black;
+
+
+}
+
+td{
+    column-width: auto;
+    height: 75px;
+    text-align: center;
+    font-size: 18px;
+}
+.den{
+width: 16%;
+
+}
+.prednasky2{
+    background-color: green;
+    color: white;
+    width: 14%;
+
+}
+.prednasky1{
+    background-color: green;
+    color: white;
+    width: 7.5%;
+
+}
+.cvika2{
+    background-color: red;
+    color: white;
+    width: 14%;
+}
+.cvika1{
+    background-color: red;
+    color: white;
+    width: 7.5%;
+}
+.telesna{
+    background-color: yellow;
+    color: blue;
+    width: 7.5%;
+}
+
+.prednaska{
+
+    color: green;
+}
+.cviko {
+
+    color: red;
+}
+.telocvik {
+    color: yellow;
+}
+.legenda{
+    background-color: black;
+    color: white;
+    width: 125px;
+    height: 100px;
+}
